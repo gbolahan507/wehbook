@@ -1,0 +1,5 @@
+command lines
+
+1  Configuring aws : aws configure
+2. List all user in aws account :  aws iam list-users
+Location access is requested to provide you with nearby hotels and restaurants for a more personalized experience
